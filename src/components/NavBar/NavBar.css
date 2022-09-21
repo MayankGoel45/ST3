@@ -1,0 +1,14 @@
+.navbar-nav{
+    margin-left: 30em;
+    margin-right: 20em;
+    font-weight: 500;
+}
+.btn{
+    margin-left: 15px;
+    width: 150px;
+}
+#img1{
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+}
